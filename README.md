@@ -6,11 +6,11 @@
 <h1 align="center">Hello World! 👋</h1>
 
 <p align="center">
-I'm Prashanth and welcome to my GitHub profile! :octocat:
+I'm Prashanth — Software Developer & Problem Solver 🚀
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&center=true&vCenter=true&width=500&lines=Software+Development+Engineer;Java+%7C+MERN+Stack+Developer;Cloud+%7C+Automation+Enthusiast;Future+Amazon+SDE" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Development+Engineer;Java+%7C+MERN+Stack+Developer;Cloud+%7C+Automation+Enthusiast;Building+Scalable+Backend+Systems" />
 </p>
 
 ---
@@ -21,59 +21,64 @@ I'm Prashanth and welcome to my GitHub profile! :octocat:
   <a href="mailto:prashanthkathi11@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/prashanth11/)">
+  <a href="https://www.linkedin.com/in/prashanth11">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🎬 GIF
+## 👨‍💻 Coding Mode Activated
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
 </p>
 
 ---
 
-## 💡 Fun Facts
+## 💡 About Me
 
-👨‍🎓 Computer Science student from Sathyabama University.  
+👨‍🎓 Computer Science student graduated from Sathyabama University.
 
-💻 Passionate about building scalable backend systems and cloud-native applications.  
+💻 Passionate about scalable backend systems & distributed applications  
 
-🧠 Strong believer in clean architecture, optimized algorithms, and writing production-ready code.  
+🧠 Strong in Data Structures, Algorithms & System Design fundamentals  
 
-🔥 Preparing to crack product-based companies like Amazon, Google & Microsoft.  
+☁️ Experience with AWS deployment & automation frameworks  
 
-☕ If your code works but isn’t optimized… we need to refactor it.  
+🔥 Targeting product-based companies like Amazon, Google & Microsoft  
 
 ---
 
 ## 🛠 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,react,nodejs,express,mongodb,mysql,aws,selenium,git,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,react,nodejs,express,mongodb,mysql,aws,selenium,git,postman,linux,docker&perline=8&theme=dark" />
+</p>
+
+
+
+---
+
+## 🏆 Achievements & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prashanth110203&show_icons=true&theme=default&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=prashanth110203&theme=default&hide_border=true" height="165"/>
 </p>
 
 ---
 
-## 📝 👇 Check out my latest technical articles
+## 📈 Contribution Graph
 
-<!-- Replace with Medium RSS later if needed -->
-
-- 🚀 Coming Soon...
-- 🚀 Coming Soon...
-- 🚀 Coming Soon...
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prashanth110203&theme=react-dark"/>
+</p>
 
 ---
 
-## 📊 Metrics 📈
+## 🚀 Currently Working On
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashanth110203&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashanth110203&theme=radical" />
-</p>
+- 🔐 Self-Destructing Messaging App (MERN + Security)
+- 🧪 Java Automation Framework (Selenium + TestNG)
+- 📊 Strengthening DSA for SDE interviews
